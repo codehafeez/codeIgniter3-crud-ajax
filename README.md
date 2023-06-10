@@ -14,9 +14,9 @@ http://localhost/codeIgniter3-crud-ajax
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/codeigniter3-crud/main/Screenshots/Output-01.png)
-![](https://raw.githubusercontent.com/codehafeez/codeigniter3-crud/main/Screenshots/Output-02.png)
-![](https://raw.githubusercontent.com/codehafeez/codeigniter3-crud/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/codeIgniter3-crud-ajax/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/codeIgniter3-crud-ajax/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/codeIgniter3-crud-ajax/main/Screenshots/Output-03.png)
 
 
 ## 🔗 www.codehafeez.com
